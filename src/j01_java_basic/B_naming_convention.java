@@ -12,9 +12,9 @@ package j01_java_basic;
 
 // Alternative example of Camel case (Called snake_case).
 // Snake case feature considered from second word, not from first word like Came case feature
-// Snake case example for a project --> October_2022_Core_Java
-// Snake case example for a package --> jv_01_Java_Basic
-// Snake case example for a class --> Naming_Convention
+// Snake case example for a project --> October_2022_core_java
+// Snake case example for a package --> jv_01_java_basic
+// Snake case example for a class --> Naming_convention
 
 public class B_naming_convention {
 
