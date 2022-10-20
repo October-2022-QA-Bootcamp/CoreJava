@@ -1,4 +1,4 @@
-package jv01_java_basic;
+package j01_java_basic;
 
 // Projects names generally starts with UpperCase -- October2022CoreJava
 // Camel case example for a project --> October2022CoreJava

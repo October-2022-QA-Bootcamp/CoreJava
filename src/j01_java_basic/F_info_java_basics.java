@@ -1,4 +1,4 @@
-package jv01_java_basic;
+package j01_java_basic;
 
 /*
 Info Java Basics: 
