@@ -11,8 +11,9 @@ class or any statement.
  */
 
 /*
- * Multiple line comment
+ * Multiple line comment can't be used at the end of a line of code
  */
+
 
 // This is single line comment
 // Single line comment is mostly used in coding
