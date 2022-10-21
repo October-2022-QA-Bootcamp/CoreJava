@@ -1,4 +1,4 @@
-package j01_java_basic;
+package lec01_java_basic;
 
 // Projects names generally starts with UpperCase --> October2022CoreJava
 // Package names are generally starts with lowerCase --> j01JavaBasic

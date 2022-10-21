@@ -1,4 +1,4 @@
-package j01_java_basic;
+package lec01_java_basic;
 
 /*
 Java Comments:

@@ -1,4 +1,4 @@
-package j02_java_basic;
+package lec02_java_basic;
 
 // I am not going to fix it here
 // what is the command to organize below codes? Please see the C_goodNight class

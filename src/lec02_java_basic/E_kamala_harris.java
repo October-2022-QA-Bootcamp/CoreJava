@@ -1,4 +1,4 @@
-package j02_java_basic;
+package lec02_java_basic;
 
 // use of \n --> creating new line  ---> a lot of use of \n in IT industry
 // use of \t --> creating a tab  ---> a lot of use of \t

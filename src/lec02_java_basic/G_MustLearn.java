@@ -1,4 +1,4 @@
-package j02_java_basic;
+package lec02_java_basic;
 
 // Memorize it please
 public class G_MustLearn { // starting of the class body

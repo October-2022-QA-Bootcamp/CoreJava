@@ -1,4 +1,4 @@
-package j02_java_basic;
+package lec02_java_basic;
 
 // we are learning: String concatenation, very important and very easy!!!
 

@@ -1,4 +1,4 @@
-package j01_java_basic;
+package lec01_java_basic;
 
 // here public -- access modifier, class -- type, Hello -- name of the class
 public class A_hello {

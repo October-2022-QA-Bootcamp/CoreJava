@@ -1,4 +1,4 @@
-package j01_java_basic;
+package lec01_java_basic;
 
 public class D_good_evening {
 	// Main method - this is the entry point of Java

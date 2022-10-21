@@ -1,4 +1,4 @@
-package j02_java_basic;
+package lec02_java_basic;
 
 // how to close the classes already opened? What kind of options are present?
 // Right click -- one of the class from the header and choose from -- close all, close others, close to left, close to right, detach etc
