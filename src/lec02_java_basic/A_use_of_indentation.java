@@ -14,5 +14,5 @@ public class A_use_of_indentation {
 // Indentation: A new Java programmer must be a master in the concept of "indentation" in Java. 
 // Indentation is used to make our code readable to other users, easier to edit, 
 // display how the braces match up and show the logic of the program in an organized fashion. 
-
+// The best way, to put the cursor at the end of last line of code and press Enter
 // we learn indentation, also how to close classes when they are opened multiple or more
