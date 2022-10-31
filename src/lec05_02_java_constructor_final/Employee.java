@@ -6,7 +6,7 @@ public class Employee {
 	public char empSex;
 	public boolean fullTimeEmployee;
 	
-	// default Constructor declared
+	// default Constructor (or no argument constructor) declared
 	public Employee() {
 		System.out.println("This default constructor is form Employee Class");
 	}
