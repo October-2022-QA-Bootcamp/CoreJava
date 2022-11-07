@@ -1,10 +1,11 @@
 package lec09_02_Java_Interface_Class_and_AbstractClass;
 
-//Abstract Class names starts with UpperCase 
-//They follow Camel case or Snake case pattern.
-//CamelCase or Snake_case feature considered from second word, not from first word
-//CamelCase example for an Abstract Class --> CarToyota
-//Snake_case example for an Abstract Class --> Car_toyota
+// Abstract Class contains both abstract and non abstract methods
+// Abstract Class names starts with UpperCase 
+// They follow Camel case or Snake case pattern.
+// CamelCase or Snake_case feature considered from second word, not from first word
+// CamelCase example for an Abstract Class --> ElectricCar
+// Snake_case example for an Abstract Class --> Electric_car
 
 public abstract class ElectricCar {
 	
