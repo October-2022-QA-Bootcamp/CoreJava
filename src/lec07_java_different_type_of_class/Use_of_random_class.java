@@ -1,4 +1,4 @@
-package lec07_01_java_different_type_of_class;
+package lec07_java_different_type_of_class;
 
 import java.util.Random;
 
