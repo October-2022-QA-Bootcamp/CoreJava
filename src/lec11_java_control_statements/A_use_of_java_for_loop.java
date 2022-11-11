@@ -1,4 +1,4 @@
-package lec10_02_java_control_statements;
+package lec11_java_control_statements;
 
 /*
 This is a very important topic used almost everywhere, like variables and methods
