@@ -1,4 +1,5 @@
-package lec12_02_java_oop_abstraction;
+package lec13_01_java_oop_abstraction;
+
 
 // Abstract Class contains both abstract and non abstract methods
 // Abstract Class names starts with UpperCase 
@@ -7,7 +8,9 @@ package lec12_02_java_oop_abstraction;
 // CamelCase example for an Abstract Class --> ElectricCar
 // Snake_case example for an Abstract Class --> Electric_car
 
-public abstract class ElectricCar {
+// An abstract class can inherit only one abstract class or one regular class by extends key word
+// An abstract class can't inherit an Interface by extends key word
+public abstract class ElectricCar extends FlyingCar{
 	// Interview question: Can we create/initialize or declared variables inside Abstract class?
 	public String nameOfElectricCar = "Tesla";	
 	public int costOfTesla = 65000;
@@ -33,5 +36,20 @@ public abstract class ElectricCar {
 	public abstract void price();
 	
 	public abstract String carName();
+	
+	// static method can be used inside abstract class
+	public static void yearEstablished() {
+		System.out.println("Established in 2018");
+	}
+	
+	// Default methods are allowed only in interfaces, not in abstract class
+	/*
+	public default void noGas() {
+		
+	}
+	*/
+	
+	
+	
 
 }
