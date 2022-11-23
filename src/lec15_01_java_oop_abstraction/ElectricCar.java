@@ -26,7 +26,7 @@ public abstract class ElectricCar extends FlyingCar implements Rocket, HoverCar 
 		System.out.println("This constructor is from Abstract class-- Electric Car");
 	}	
 	// Interview question: Can a Constructor of an Abstract class be initialized?
-	// When we will initialize, we will get that answer that time
+	// // Answer: Yes Possible, if Abstract class is instantiated by concrete class or inherited by Regular/concrete class
 	
 	// method implemented
 	// non-abstract method

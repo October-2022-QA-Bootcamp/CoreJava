@@ -9,7 +9,7 @@ package lec15_01_java_oop_abstraction;
 // a regular class can inherit more than one Interface
 // a regular class cannot inherit a regular class or abstract class by implements keyword
 
-public class Toyota extends ElectricCar implements Car, Drone {
+public class Toyota extends ElectricCar implements Car, Drone, CableCar {
 	public int yearOfManufacture = 1885; // Global variable
 	
 	public Toyota () {
@@ -34,6 +34,15 @@ public class Toyota extends ElectricCar implements Car, Drone {
 		System.out.println("Made in Japan");
 	}
 
+	// Default methods are allowed only in interfaces, not in regular class
+	/*
+	public default void toyotaColor () {
+		
+	}
+	*/
+
+	
+	
 	@Override
 	public void rent() {
 		System.out.println("rent method from Taxi Interface");
@@ -110,12 +119,7 @@ public class Toyota extends ElectricCar implements Car, Drone {
 
 	
 	
-	// Default methods are allowed only in interfaces, not in regular class
-	/*
-	public default void toyotaColor () {
-		
-	}
-	*/
+	
 	
 	
 	
