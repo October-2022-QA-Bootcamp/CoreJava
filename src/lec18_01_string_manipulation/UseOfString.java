@@ -208,7 +208,7 @@ public class UseOfString {
 		student[1] = "Mahmuda Arif";
 		student[2] = "Ngwang";
 		student[3] = "Numan";
-		System.out.println(student[0]); // How to execute, same for below
+		System.out.println(student[3]); // How to execute, same for below
 		
 		//or
 		String [] mentor =  {"Raihan Khan", "Sazzad", "Rayhan Rahman", "Fatema Khaleda", "Nayon Sarker"};
