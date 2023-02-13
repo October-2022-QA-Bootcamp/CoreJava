@@ -50,12 +50,22 @@ public class B_use_of_java_while_loop {
 		}
 		
 		System.out.println("\n---------- while loop 05 ----------\n");
+	
+		
+		
 		int m = 2;
 		int l = 16;
 		while (l > 5) { 
-			System.out.println("The value is: " + l*m); // 32, 26, 20, 14
+			System.out.print(l*m + ", "); 
 			l = l - 3;
 		}	
+		
+		
+		
+		
+		
+		
+		
 		
 		// Avoid Infinite loop
 		
